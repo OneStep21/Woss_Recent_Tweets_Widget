@@ -1,6 +1,6 @@
 # Wordpress Recent Tweets Widget
 
-=== Network Latest Posts ===
+=== Recent Tweets Widget ===
 <br />
 Author: OneStep21
 <br />
